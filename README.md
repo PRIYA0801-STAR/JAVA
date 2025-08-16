@@ -11,3 +11,6 @@ Day 9 ---> Printing the number from 1 to 100 is odd or even and
           tables for the given number 
 Day 10 ---> Using scanner find the factorial for that number and
           factorial for upto 10 numbers
+Day 11 ---> Print the values in array and 
+          print the value based on index in array
+Day 12 ---> Find the largest value in array
