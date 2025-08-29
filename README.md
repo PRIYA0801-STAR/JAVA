@@ -16,4 +16,4 @@ Day 11 ---> Print the values in array and
 Day 12 ---> Find the largest value in array
 Day 13 ---> Find the vowels in a string 
 Day 14 ---> Add the numbers in array
-Day 15 ---> Reverse the string
+Day 15 ---> Reverse the string and count the letters in string
