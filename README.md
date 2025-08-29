@@ -14,3 +14,6 @@ Day 10 ---> Using scanner find the factorial for that number and
 Day 11 ---> Print the values in array and 
           print the value based on index in array
 Day 12 ---> Find the largest value in array
+Day 13 ---> Find the vowels in a string 
+Day 14 ---> Add the numbers in array
+Day 15 ---> Reverse the string
