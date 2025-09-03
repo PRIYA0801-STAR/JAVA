@@ -17,3 +17,4 @@ Day 12 ---> Find the largest value in array
 Day 13 ---> Find the vowels in a string 
 Day 14 ---> Add the numbers in array
 Day 15 ---> Reverse the string and count the letters in string
+Day 16 ---> Method used in the program
